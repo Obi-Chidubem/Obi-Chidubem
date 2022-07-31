@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Obi-Chidubem
+- 👀 I’m interested in... Python, Web Design, Reading novels and Art
+- 🌱 I’m currently learning... Machine Learning and Data Science
+- 📫 How to reach me... Email: alexanderobi3@gmail.com.
+
+<!---
+Obi-Chidubem/Obi-Chidubem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
