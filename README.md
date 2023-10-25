@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Obi-Chidubem
-- 👀 I’m interested in... Python, Blockchain, solidity, Web Design, Reading novels and Art
-- 🌱 I’m currently learning... Back-end Software engineering and Web3 fullstack development
+- 👀 I’m interested in... Python, js, DevOps, Web Design, Reading novels and Art
+- 🌱 I’m currently learning... Back-end Software engineering and Cloud Engineering
 - 📫 How to reach me... Email: alexanderobi3@gmail.com.
 
 <!---
